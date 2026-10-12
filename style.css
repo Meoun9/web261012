@@ -16,7 +16,8 @@ footer {
     width: 260px;
     border-radius: 12px;
     overflow: hidden;
-    box-shadow: 0 4px 12px rgba(255,193,7,0.6);
+    box-shadow: 0 4px 12px rgba(0,
+            0, 0, 0.3);
     background: #fff;
     position: relative;
     transition: transform 0.3s, box -shadow 0.3s;
@@ -24,7 +25,7 @@ footer {
 
 .card:hover {
     transform: translateY(-8px);
-    box-shadow: 0 12px 32px rgba(255, 1 93, 7, 0.6);
+    box-shadow: 0 12px 32px rgba(255,193,7,0.6);
 }
 
 .poster {
