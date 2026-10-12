@@ -25,7 +25,7 @@ footer {
 
 .card:hover {
     transform: translateY(-8px);
-    box-shadow: 0 12px 32px rgba(255, 1 93, 7, 0.6);
+    box-shadow: 0 12px 32px rgba(255,193,7,0.6);
 }
 
 .poster {
@@ -39,7 +39,7 @@ footer {
     position: absolute;
     top: 12px;
     right: 12px;
-    background: rgba(255,193,7,0.6);
+    background: #ffc107;
     color: #222;
     padding: 4px 10p x;
     border-radius: 999px;
